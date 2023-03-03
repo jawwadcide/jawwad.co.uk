@@ -1,13 +1,13 @@
 {
   "files": {
-    "main.css": "/jawwad.co.uk/static/css/main.5edd641a.css",
+    "main.css": "/jawwad.co.uk/static/css/main.e7cb1209.css",
     "main.js": "/jawwad.co.uk/static/js/main.c00c5ca0.js",
     "index.html": "/jawwad.co.uk/index.html",
-    "main.5edd641a.css.map": "/jawwad.co.uk/static/css/main.5edd641a.css.map",
+    "main.e7cb1209.css.map": "/jawwad.co.uk/static/css/main.e7cb1209.css.map",
     "main.c00c5ca0.js.map": "/jawwad.co.uk/static/js/main.c00c5ca0.js.map"
   },
   "entrypoints": [
-    "static/css/main.5edd641a.css",
+    "static/css/main.e7cb1209.css",
     "static/js/main.c00c5ca0.js"
   ]
 }
